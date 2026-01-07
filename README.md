@@ -1,4 +1,8 @@
 # CrewAI Multi-Agent LLM App – Content Marketing Team Replacement
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![CrewAI](https://img.shields.io/badge/CrewAI-multi--agent-orange)
+![License](https://img.shields.io/badge/License-Apache--2.0-green)
+
 
 Aplicación **multiagente** construida con **CrewAI** que simula el trabajo de un equipo de marketing de contenidos para una empresa SaaS B2B.  
 La aplicación define agentes con roles claros y tareas coordinadas para generar una **estrategia de marketing de contenidos estructurada y accionable** utilizando un LLM.
@@ -69,3 +73,11 @@ crewai-multiagent-marketing-app/
 ├─ .gitignore
 ├─ requirements.txt
 └─ README.md
+
+## 📸 Demo
+
+Salida de ejemplo (CLI):
+
+![Demo output](assets/demo_output.png)
+
+
